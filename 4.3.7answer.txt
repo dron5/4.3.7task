@@ -1,0 +1,8 @@
+Alakazam 185
+{
+    "user": {
+        "username": "user1",
+        "email": "pochta1@pochta.com",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmYTdhMzJjNjk5ZDE2MDMyNDZmZDdjNCIsInVzZXJuYW1lIjoidXNlcjEiLCJleHAiOjE2MTAwMDYwMDAsImlhdCI6MTYwNDgyMjAwMH0.eNcSE-G-vAHvAGaexnElKQWhPq7UwszYtlmAb-rPlc0"
+    }
+} 
